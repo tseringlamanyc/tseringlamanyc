@@ -5,4 +5,4 @@
 - League of legends gamer 👾
 - New york Knicks fan! 🏀 🗽
 
-[![Tsering's GitHub stats](https://github-readme-stats.vercel.app/api?username=tseringlamanyc&count_private=true&show_icons=true)](https://github.com/tseringlamanyc/github-readme-stats)
+[![Tsering's GitHub stats](https://github-readme-stats.vercel.app/api?username=tseringlamanyc&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/tseringlamanyc/github-readme-stats)
