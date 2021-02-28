@@ -1,5 +1,4 @@
-### Hi there 👋, my name is Tsering
-####  नमस्ते 🇳🇵
+### Hi there 👋, my name is Tsering, नमस्ते 🇳🇵
 - Currently iOS fellow at Pursuit.                                           
 - Student of iOS and Swift. 👨‍💻
 - Currently learning Swift UI. 
