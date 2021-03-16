@@ -1,5 +1,5 @@
 ### Hi there 👋 🇳🇵 
-- 👨‍💻 Currently iOS fellow at Pursuit.                                                     
+- 👨‍💻 Currently iOS fellow at[Pursuit](https://www.pursuit.org)                                                     
 - 🍎 Student of iOS and Swift. 
 - 🖥 Currently learning Swift UI. 
 - 👾 League of legends gamer
