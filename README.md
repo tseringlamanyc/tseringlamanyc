@@ -1,4 +1,5 @@
-### Hi there 👋 🇳🇵 
+<h3 align="center">IOS Developer</h3>
+
 - 👨‍💻 Currently iOS fellow at [Pursuit](https://www.pursuit.org)                                                     
 - 🍎 Student of iOS and Swift. 
 - 🖥 Currently learning Swift UI. 
