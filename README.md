@@ -1,4 +1,6 @@
-<h3 align="center">IOS Developer</h3>
+<h3 align="center">iOS Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tseringlamanyc&label=Profile%20views&color=0e75b6&style=flat" alt="tseringlamanyc" /> </p>
 
 - 👨‍💻 Currently iOS fellow at [Pursuit](https://www.pursuit.org)                                                     
 - 🍎 Student of iOS and Swift. 
