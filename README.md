@@ -1,5 +1,7 @@
 <h3 align="center">iOS Developer</h3>
 
+![Hi, I'm Tsering Nice to meet you](https://user-images.githubusercontent.com/55720394/122409224-f7672f00-cf50-11eb-9cd5-3b214ec35be3.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tseringlamanyc&label=Profile%20views&color=0e75b6&style=flat" alt="tseringlamanyc" /> </p>
 
 - 👨‍💻 Currently iOS fellow at [Pursuit](https://www.pursuit.org)                                                     
