@@ -1,4 +1,4 @@
-![Hi, I'm Tsering Nice to meet you](https://user-images.githubusercontent.com/55720394/122409816-70ff1d00-cf51-11eb-8471-5b350cdc262f.gif)
+ ![Hi, I'm Tsering Nice to meet you](https://user-images.githubusercontent.com/55720394/122418734-6bf19c00-cf58-11eb-90b6-765500b527f8.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tseringlamanyc&label=Profile%20views&color=0e75b6&style=flat" alt="tseringlamanyc" /> </p>
