@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tseringlamanyc&label=Profile%20views&color=0e75b6&style=flat" alt="tseringlamanyc" /> </p>
 
 - 👨‍💻 SE1 at Dwolla                                                   
-- 🍎 Student of Fullstack Web. 
+- 🕸 Student of Fullstack Web. 
 - 🖥 Currently learning HTML, CSS, JS and React. 
 - 👾 League of legends gamer
 - 🏀 New york Knicks fan! 
