@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tseringlamanyc&label=Profile%20views&color=0e75b6&style=flat" alt="tseringlamanyc" /> </p>
 
-- 👨‍💻 SE1 at Dwolla                                                   
+- 👨‍💻 Namaste world                                                
 - 🕸 Student of Fullstack Web. 
 - 🖥 Currently learning Typescript!
 - 👾 League of legends gamer
